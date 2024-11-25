@@ -69,9 +69,9 @@
   },
   "peerDependencies": {
     "@react-native-async-storage/async-storage": "^1.13.0",
-    "@tensorflow/tfjs-backend-cpu": "^4.13.0",
-    "@tensorflow/tfjs-backend-webgl": "^4.13.0",
-    "@tensorflow/tfjs-core": "^4.13.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.22.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.22.0",
+    "@tensorflow/tfjs-core": "^4.22.0",
     "expo-camera": "~15.0.10",
     "expo-gl": "^14.0.2",
     "react": "*",
